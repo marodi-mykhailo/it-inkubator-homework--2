@@ -1,3 +1,15 @@
-.someClass {
+.active{
+    background-color: rosybrown;
+}
 
+.low{
+    color: green;
+}
+
+.middle{
+    color: sandybrown;
+}
+
+.high{
+    color: red;
 }
